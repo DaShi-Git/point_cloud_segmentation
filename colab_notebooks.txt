@@ -1,0 +1,6 @@
+Notebooks introducing Graphical neural Networks using pytorch Geometric can be found on this link:
+
+https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html
+
+Some additional examples not covered in the notebooks can be found here:
+https://github.com/rusty1s/pytorch_geometric/tree/master/examples
